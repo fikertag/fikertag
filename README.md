@@ -1,3 +1,4 @@
+   ![Profile view counter](https://komarev.com/ghpvc/?username=fikertag)
 <h1 align="center">Hi there, I'm fikiryilkal Tgaes 👋</h1>
 
 <p align="center">
